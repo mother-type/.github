@@ -22,8 +22,6 @@ The **Unified Font Repository** (UFR) standardizes font project structures for c
 - **Transparency**: Clear documentation and open licensing.
 - **Scalability**: Adding new fonts is seamless.
 
-## How We Use The Unified Font Repository
-
 Our website pulls font data directly from the METADATA.yml file in each repository. This ensures the repository serves as a central, flexible hub for font information as projects evolve. This allows for: 
 
 - Real-time updates: Website content reflects repository changes immediately.
