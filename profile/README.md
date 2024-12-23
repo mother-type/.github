@@ -1,4 +1,4 @@
-# Welcome to Mother Type 👋
+# Mother Type 👋
 
 ## Why Open Source Fonts?
 
@@ -22,35 +22,12 @@ The **Unified Font Repository** (UFR) standardizes font project structures for c
 - **Transparency**: Clear documentation and open licensing.
 - **Scalability**: Adding new fonts is seamless.
 
----
-
 ## How We Use The Unified Font Repository
 
 Our website pulls font data directly from the METADATA.yml file in each repository. This ensures the repository serves as a central, flexible hub for font information as projects evolve. This allows for: 
 
 - Real-time updates: Website content reflects repository changes immediately.
 - Accessible information: Users can easily view details like font names, descriptions, designers, and licensing.
-Sample metadata in JSON format:
-
-```json
-{
-  "name": "CoasterSans",
-  "metadata": {
-    "typeface_family": {
-      "name": "Coaster Sans",
-      "description": "A chunky display font inspired by waves.",
-      "tags": ["sans-serif", "incomplete"],
-      "repository_url": "https://github.com/mother_type/CoasterSans",
-      "designer": [{ "name": "printer_scanner", "url": "https://printerscanner.net" }],
-      "writing_systems": ["Latin"],
-      "license": ["SIL Open Font License, Version 1.1"]
-    }
-  },
-  "url": "coaster-sans"
-}
-```
-
----
 
 ## How to Contribute
 
